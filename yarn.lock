@@ -1047,18 +1047,18 @@
     escape-string-regexp "^1.0.5"
     lodash.deburr "^4.1.0"
 
-"@sudoo/bark@^2.7.1":
-  version "2.7.1"
-  resolved "https://registry.yarnpkg.com/@sudoo/bark/-/bark-2.7.1.tgz#84b9db0be3aa7b4d6896ced81d9fa9aac96578ef"
-  integrity sha512-0zBFbIQAtu3XNJkFPszdljYXXIPXzR63qypfTwFRupmu3gxgfBMtdPShbQebGuGG0KQEmXasGMBQVi2O0jWbbQ==
+"@sudoo/bark@^2.7.2":
+  version "2.7.2"
+  resolved "https://registry.yarnpkg.com/@sudoo/bark/-/bark-2.7.2.tgz#961c4b482dbc00d7c762607c63f7a3eaa8f8811e"
+  integrity sha512-COaH8iYTyutU0bgqhklIQShops+NYHRlCb+XEXkMimlkQuiw2dUY6yATSyiq89vIy74W39FAs/FgHAG4+aJVKA==
 
-"@sudoo/io@^1.6.1":
-  version "1.6.1"
-  resolved "https://registry.yarnpkg.com/@sudoo/io/-/io-1.6.1.tgz#d8d18d17ed61f36eafa6aa7e4b22562f2bd801a5"
-  integrity sha512-dJPWaZocnnDtZL5kaxbpSQD02GxURxaQC6SmQ8FaPGuijv2cnURqVoSwpZmVexkMMymOmTzWEd7NqK+KfgJuAA==
+"@sudoo/io@^1.8.0":
+  version "1.8.0"
+  resolved "https://registry.yarnpkg.com/@sudoo/io/-/io-1.8.0.tgz#bc57ae7ed0d76797415c1aab9cc7ea7857c3e46e"
+  integrity sha512-Gvfx9SnCiZSQO6F0gIZzNMSjJWqr/zWfofJIa0TOc/OIdNgQ9wGyS69wWFXgdtQVvWNXYDjw+efwZmlH2i9VrA==
   dependencies:
-    "@sudoo/bark" "^2.7.1"
-    connor "^2.6.0"
+    "@sudoo/bark" "^2.7.2"
+    connor "^2.7.0"
 
 "@sudoo/jss@^1.2.1":
   version "1.2.1"
@@ -2870,10 +2870,10 @@ connect-history-api-fallback@^1.6.0:
   resolved "https://registry.yarnpkg.com/connect-history-api-fallback/-/connect-history-api-fallback-1.6.0.tgz#8b32089359308d111115d81cad3fceab888f97bc"
   integrity sha512-e54B99q/OUoH64zYYRf3HBP5z24G38h5D3qXu23JGRoigpX5Ss4r9ZnDk3g0Z8uQC2x2lPaJ+UlWBc1ZWBWdLg==
 
-connor@^2.6.0:
-  version "2.6.0"
-  resolved "https://registry.yarnpkg.com/connor/-/connor-2.6.0.tgz#1ffc2ebc60c2fa0908afd22bc763c74fd6dd4a0f"
-  integrity sha512-8y18++OijPHvT3C8d57Z2I3xTFgLJU4hyphsty19kja1KqtgZDFmBwRPZ2zaJHlJZzMAvztVClv30WAaT2l6SA==
+connor@^2.7.0:
+  version "2.7.0"
+  resolved "https://registry.yarnpkg.com/connor/-/connor-2.7.0.tgz#b2f04d86c516ba0dcc37dd87c0b80465c89e5f27"
+  integrity sha512-HzaNDJ1KI0vPz/O3ZlVQc2ZFu14GetTp7eQ/5gZ1PFyr7ovMPXsu0AujBzXgiQu162p3UCyFZbnAHY6KS3x8jA==
 
 consola@^2.6.0:
   version "2.10.1"
