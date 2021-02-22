@@ -1068,10 +1068,10 @@
     jss "^10.0.0-alpha.23"
     jss-preset-default "^10.0.0-alpha.23"
 
-"@sudoo/mock@^1.2.0":
-  version "1.2.0"
-  resolved "https://registry.yarnpkg.com/@sudoo/mock/-/mock-1.2.0.tgz#7c3c5ff731ddaeb8839dac7a1384b8ef9d95948b"
-  integrity sha512-k0JtsW2rrbwpjbuVQPCPq3cu+CeRWTP2ksFUnrNwlVbSwWcxzE/NdAajWFRP1tvQQNQ01tj/c4lnOV5IZmZaTg==
+"@sudoo/mock@^1.5.0":
+  version "1.5.0"
+  resolved "https://registry.yarnpkg.com/@sudoo/mock/-/mock-1.5.0.tgz#6c76cd59f47f76a9642c5022cef6f5abde9f6567"
+  integrity sha512-bqgk2SwoO/qhZy8tprgqPdjyDSGlt8JCcrARG6DSGnFtqr3CVF2+Yu4CJzV/P70YYYocoE77ueDSyEyIJJ0CHA==
 
 "@sudoo/react-force-dev@^1.5.0":
   version "1.5.0"
